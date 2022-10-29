@@ -21,4 +21,3 @@ i can write code in:
 
 fun fact: i have never taken a single computer science class, probably explains why my profile isn't that impressive...
 
-i'm currently working on recreating don't starve together in 3d using unity. if you have questions or want to contribute, my discord is **fall#0211**
