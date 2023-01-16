@@ -19,5 +19,3 @@ i can write code in:
 - 🌙 lua
 - 🐥 swift
 
-fun fact: i have never taken a single computer science class, probably explains why my profile isn't that impressive...
-
