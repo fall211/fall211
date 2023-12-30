@@ -18,5 +18,5 @@ i can write code in:
 - #️⃣ c#
 - 🤯 bash
 - 🌙 lua
-- 🐥 swift
+- 🐥 c++
 
